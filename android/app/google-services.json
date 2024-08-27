@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "186143774309",
+    "project_id": "my-spotify-clone-project",
+    "storage_bucket": "my-spotify-clone-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186143774309:android:2a8c34e339e57b13f3188c",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCy3l5HYVOLQA336Gw-6dxi0n_oFvd42Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
